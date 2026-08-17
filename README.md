@@ -20,10 +20,10 @@ minimum-variance portfolio constructed via constrained optimization.
   the equities (0.08–0.16), while the tech names moved closely with the S&P 500
   (NVDA–SPY: 0.70), reflecting their weight as index constituents.
 - **Diversification measurably reduced risk.** An equal-weight portfolio had
-  23.0% annualized volatility — well below the 31.5% average of the individual
-  assets — purely because the assets are imperfectly correlated.
+  23.0% annualized volatility, which was well below the 31.5% average of the individual
+  assets. This is purely because the assets are imperfectly correlated.
 - **The minimum-variance portfolio (≈65% GLD, 27% SPY, 8% NVO) reached 13.2%
-  volatility — lower than any individual asset, including gold.** This
+  volatility, making it lower than any individual asset given, including gold.** This
   demonstrates the core result of diversification: a portfolio can be less risky
   than its least-risky component.
 
