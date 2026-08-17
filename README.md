@@ -6,7 +6,7 @@ portfolio through constrained optimization.
 
 ## What it does
 
-- Pulls 5 years of daily price data (2020 to 2024) with `yfinance`
+- Pulls 5 years of daily price data (2020 to 2025) with `yfinance`
 - Computes daily and annualized returns and volatility for each asset
 - Analyzes the correlation and covariance structure across the assets
 - Builds the minimum-variance portfolio with `scipy.optimize` (SLSQP), holding
